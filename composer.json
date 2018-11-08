@@ -1,0 +1,15 @@
+{
+    "name": "terryrui/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "terry",
+            "email": "email@email.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Terryrui\\Packagetest\\": "src/"
+        }
+    }
+}
